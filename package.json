@@ -1,0 +1,12 @@
+{
+  "name": "typescript1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "node app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
